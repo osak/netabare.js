@@ -1,8 +1,8 @@
-langResources['Anti-Spoiler'] = ['ネタバレフィルタ','Anti-Spoiler'];
+langResources['Anti-Spoiler'] = ['ネタバレフィルタ','剧透过滤器'];
 langResources['Add'] =	['追加','添加'];
-langResources['List of filters'] = ['一覧','List of filters'];
-langResources['Enable'] = ['有効化','Enable'];
-langResources['Disable'] = ['無効化','Disable'];
+langResources['List of filters'] = ['一覧','过滤列表'];
+langResources['Enable'] = ['有効化','启用'];
+langResources['Disable'] = ['無効化','禁用'];
 
 var netabare_filters;
 
